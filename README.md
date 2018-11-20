@@ -3,6 +3,7 @@ Cyber Financial Attacks Common Techniques &amp; Stages (CFACTS) Kill Chain
 
 # Modern Cyber-Financial Attacks Kill Chain Matrix
 | Staging | Target Acquisition | Preparation | Execution | Coordination | Extraction-Legacy | Extraction-High Tech |
+|-----|-----|-----|-----|-----|-----|-----|
 | Mules/smurfs | Drops | Foreign Agents | Infrastructure | Informants | Herding |
 | Dark web (CNP, Cloning, target intel) | Cyber (Pre-ATT&CK etc) | Insider (plausible deniability) |
 | Implanting | Observing | Customizing |
